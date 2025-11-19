@@ -235,6 +235,11 @@ special instructions.
   for their learners.
 </p>
 
+<p id="registration">
+  <strong>Registration:</strong>
+  registration is via the University of St Andrews <a href="https://www.st-andrews.ac.uk/pdms/index.php?mode=single&query=15630">Personal Development Management System (PDMS)</a>.
+</p>
+
 {% comment %}
 WORKSHOP RECORDINGS
 
